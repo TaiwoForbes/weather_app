@@ -1,1 +1,1 @@
-const new = "profile"
+const new = "profile pics"
