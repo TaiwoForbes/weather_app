@@ -3,3 +3,5 @@ const fn = (name)=>{
   const full name = "Tsiwo" + name
 }
 
+console.log(fn)
+
